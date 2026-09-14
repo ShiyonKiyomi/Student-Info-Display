@@ -50,8 +50,5 @@ public class Main {
                 "\n[1]Create Student" +
                 "\n[2]Show student" +
                 "\n[0]Exit");
-
     }
-
-
 }
